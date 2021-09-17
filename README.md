@@ -4,3 +4,4 @@ Building a Spiking Neural Network (SNN) based model to predict real time frequen
 ->Understanding the inconsistent results due to motion artifacts and low spatial resolution and working on improvising it.
 ->Building a Spiking Neural Network (SNN) based model to give accurate results with lesser power consumption. 
 ->Exploring the gap and challenges in the literature, and proposing solutions and future direction of research.
+This is a ongoing project, final results are yet to be published.
